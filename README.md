@@ -19,3 +19,5 @@ Some of the features we focused on include:
 
 
 Currently the site is a minimal viable product, and not all components are fully functional. It focuses mostly on the front end user experience for the student. Most of the backend has not been implemented and some of the features have been hard coded in to demonstrate their utility without compromising the functionality of the site itself. 
+
+A demo of this product can be seen [here](https://www.buddhitree.net/).
